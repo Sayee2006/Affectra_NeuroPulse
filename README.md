@@ -78,7 +78,7 @@ Results are displayed with suggestions and saved to history
 Note
 This project is for educational purposes only and is not intended for medical diagnosis.
 
-visit Link Here -> https://stress-detector-deploy-1.onrender.com/
+Visit Link Here -> https://stress-detector-deploy-1.onrender.com/
 
 Author
 Developed by Sayee Arwalkar,Akanksha Parkhe,Pawani Gahoi
